@@ -135,10 +135,14 @@ label.logo img{
 #check:checked ~ ul{
     left: 0;
 }
+ label.logo{
+     font-size: 30px;
+     padding: 0px;
+ }
 label.logo img{
-    width: 200px;
+    width: 100px;
     height: 50px;
-    margin-top: 2%;
+    margin-top: 1%;
  }
 }
 

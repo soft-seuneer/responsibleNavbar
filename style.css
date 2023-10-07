@@ -51,7 +51,13 @@ a.active, a:hover{
     background-color: #1b9bff;
     transition: .5s;
 }
-
+#colo {
+    background-color: #ADD8E6;
+    color: #FFFFFF;
+}
+#colo:hover {
+    background-color: #00BFFF;
+}
 .checkbtn{
     font-size: 30px;
     color: white;

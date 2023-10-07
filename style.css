@@ -138,12 +138,15 @@ label.logo img{
     background: none;
     color: #2c3e50;
 }
+    .checkbtn{
+     margin-right: 10px;
+    }
 #check:checked ~ ul{
     left: 0;
 }
  label.logo{
      font-size: 30px;
-     padding: 0px;
+     padding-left: 2px;
  }
 label.logo img{
     width: 100px;
